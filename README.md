@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **Python, MySQL,PowerBI, Advance excel, Stats**
+- 💬 Ask me about **Machine learning, Python, SQL , PowerBI , Tableau , Advance excel, Statistics**
 
 - 📫 How to reach me **arjun.singh95@yahoo.com**
 
